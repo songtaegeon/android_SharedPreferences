@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="turn_on_gps">turn_on_gps</string>
+    <string name="save_Button">save_Button</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="contact_number">contact_number</string>
+</resources>
